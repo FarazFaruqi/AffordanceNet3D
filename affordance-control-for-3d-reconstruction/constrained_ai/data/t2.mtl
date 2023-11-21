@@ -1,0 +1,17 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.0.1937526254)
+
+newmtl Wood
+Kd 1 1 1
+illum 1
+map_Kd RoxanaEndTable_Wood_BaseColor.png
+bump RoxanaEndTable_Wood_Normal.png
+map_bump RoxanaEndTable_Wood_Normal.png
+
+newmtl Metal
+Kd 1 1 1
+illum 1
+map_Kd RoxanaMetal_BaseColor.png
+bump RoxanaMetal_Normal.png
+map_bump RoxanaMetal_Normal.png
+
